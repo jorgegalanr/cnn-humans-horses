@@ -73,3 +73,15 @@ Add your figures after training:
 - Training curves
 
 - Confusion matrix
+
+
+⚙️ requirements.txt
+
+tensorflow==2.16.1
+scikit-learn==1.5.0
+matplotlib==3.9.0
+seaborn==0.13.2
+pandas==2.2.2
+numpy==1.26.4
+
+
